@@ -88,5 +88,5 @@ Feel free to use this portfolio template for your personal or commercial project
 
 ---
 
-Built with ❤️ and lots of coffee
+Built with ❤️ and lots of chai
 
